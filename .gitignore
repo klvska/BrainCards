@@ -5,7 +5,7 @@
 
 # testing
 /coverage
-# config/
+config/
 firebaseConfig.js
 
 # Firebase folder
